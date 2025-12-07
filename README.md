@@ -6,7 +6,7 @@ The core business challenge centered on understanding customer heterogeneity and
 
 ## Team Members
 - [Mridul Jain](https://github.com/MridulJain1101)
-- [Humayun Hamza](https://github.com/MridulJain1101)
+- [Humayun Hamza](https://github.com/HamzaAnalytics)
 - [Arnold Kelani](https://github.com/Arnold-Kelani)
 - [Simin Zhang](https://github.com/zhngsimin-cloud)
 
